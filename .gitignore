@@ -1,0 +1,10 @@
+# Docker MySQL data
+docker/mysql/data/
+
+# Laravel
+.env
+vendor/
+node_modules/
+
+# OS
+.DS_Store
